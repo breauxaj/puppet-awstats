@@ -12,7 +12,7 @@ include awstats
 ```
 class { 'awstats':
   version => '7.4',
-  source  => 'http://prdownloads.sourceforge.net/awstats/'
+  source  => 'http://prdownloads.sourceforge.net/awstats'
 }
 ```
 
