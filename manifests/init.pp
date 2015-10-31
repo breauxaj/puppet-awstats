@@ -1,5 +1,3 @@
-http://prdownloads.sourceforge.net/awstats/awstats-7.4.tar.gz
-
 # Class: awstats
 #
 # This class installs AWStats
